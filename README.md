@@ -14,6 +14,7 @@ Sou Acadêmico de Análise e Desenvolvimento de Sistemas
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
 
+<hr>
 
 ## Minha redes 👋
 
