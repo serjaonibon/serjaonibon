@@ -20,19 +20,19 @@ Sou Acadêmico de Análise e Desenvolvimento de Sistemas
 
   <a href="https://www.linkedin.com/in/sergio-nibon-serj%C3%A3o-a77639114/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+    </a>&nbsp;
 
  <a href="https://www.instagram.com/dev.serjaonibon/">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-    </a>
+    </a>&nbsp;
 
  <a href="">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-    </a>    
+    </a>&nbsp;
 
  <a href="">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>        
+    </a>&nbsp;   
 
 
           
