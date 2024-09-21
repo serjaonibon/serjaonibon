@@ -17,7 +17,7 @@ Sou Acadêmico de Análise e Desenvolvimento de Sistemas
 
 ## Minha redes 👋
 
-<img width="50" height="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
           
