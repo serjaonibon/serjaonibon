@@ -1,4 +1,4 @@
-## Oi, me chamo Sergio Nibon 👋
+## Beleza, galera? Me chamo Sergio Nibon. 👋
 Sou Acadêmico de Análise e Desenvolvimento de Sistemas
 
 🎧 - Analista de Atendimento ao Cliente, no [Grupo Boticário](https://www.grupoboticario.com.br/) / [Casa Magalhães](https://www.casamagalhaes.com.br/).
@@ -13,6 +13,11 @@ Sou Acadêmico de Análise e Desenvolvimento de Sistemas
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
+
+
+## Minha redes 👋
+
+<img width="50" height="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
 
 
           
