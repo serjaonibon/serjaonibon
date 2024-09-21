@@ -1,5 +1,5 @@
 ## Beleza, galera? Me chamo, Sergio Nibon ...
-Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, sou um aspirante a desenvolvedor web, com uma paixão por tecnologia e inovação. No momento estou me aperfeiçoando nas tecnologias web, especificamente em HTML, CSS, Javascript e React. 
+Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas. Sou um aspirante a desenvolvedor web, com uma paixão por tecnologia e inovação. No momento estou me aperfeiçoando nas tecnologias HTML, CSS, Javascript e React. 
 
 🎧 - Analista de Atendimento ao Cliente, no [Grupo Boticário](https://www.grupoboticario.com.br/) / [Casa Magalhães](https://www.casamagalhaes.com.br/).<br>
 👨🏼‍🎓 - Acadêmico de Análise e Desenvolvimento de Sistemas.<br>
