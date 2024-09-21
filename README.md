@@ -1,5 +1,5 @@
-## Beleza, galera? Me chamo Sergio Nibon. 👋
-Sou Acadêmico de Análise e Desenvolvimento de Sistemas
+## Beleza, galera? Me chamo, Sergio Nibon ...
+Sou Acadêmico de Análise e Desenvolvimento de Sistemas, e estou buscando um lugar ao sou no ambiente de desenvolvimento web. No momento estou me aperfeiçoando nas lingaugens HTML, CSS
 
 🎧 - Analista de Atendimento ao Cliente, no [Grupo Boticário](https://www.grupoboticario.com.br/) / [Casa Magalhães](https://www.casamagalhaes.com.br/).<br>
 👨🏼‍🎓 - Acadêmico de Análise e Desenvolvimento de Sistemas.<br>
@@ -16,7 +16,7 @@ Sou Acadêmico de Análise e Desenvolvimento de Sistemas
 
 <hr>
 
-## Minha redes 👋
+## Minhas redes 👋
 
   <a href="https://www.linkedin.com/in/sergio-nibon-serj%C3%A3o-a77639114/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
