@@ -1,6 +1,10 @@
 ## Me chamo, Sergio Nibon (Serjão)
 Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, e um aspirante a desenvolvedor web, com uma paixão por tecnologia e inovação. No momento, estou me aperfeiçoando nas tecnologias HTML, CSS, Javascript e React, buscabdo ingressar na área de desenvolvimento Full Stack.
 
+
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/serjaonibon/serjaonibon/blob/main/Serj%C3%A3o-criada.png" />
+&nbsp;&nbsp;&nbsp;
+
 🎧 - Analista de Atendimento ao Cliente, no [Grupo Boticário](https://www.grupoboticario.com.br/) / [Casa Magalhães](https://www.casamagalhaes.com.br/).<br>
 👨🏼‍🎓 - Acadêmico de Análise e Desenvolvimento de Sistemas.<br>
 👨🏼‍💻 - Aluno do Curso Full Stack Javascript, da [One Bit Code](https://onebitcode.com/).<br>
