@@ -1,5 +1,5 @@
 ## Me chamo, Sergio Nibon (Serjão)
-Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, e um aspirante a desenvolvedor web, com uma paixão por tecnologia e inovação. No momento, estou me aperfeiçoando nas tecnologias HTML, CSS, Javascript e React, buscabdo ingressar na área de desenvolvimento Full Stack.
+Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, e um aspirante a desenvolvedor web. Gosto muito de tecnologia e inovação, e no momento, estou me aperfeiçoando nas tecnologias HTML, CSS, Javascript e React, buscabdo ingressar na área de desenvolvimento Full Stack. Aqui, registrarei um pouco de minha trajetória, aulas e projetos que irei participar nessa busca por conhecimento no mundo da programação.
 
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/serjaonibon/serjaonibon/blob/main/Serj%C3%A3o-criada.png" />
