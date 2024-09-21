@@ -29,6 +29,10 @@ Sou Acadêmico de Análise e Desenvolvimento de Sistemas
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
     </a>    
 
+ <a href="">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    </a>        
+
 
           
           
