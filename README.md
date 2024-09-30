@@ -21,7 +21,7 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, e um aspirant
 ## Minhas redes 👋
 
   <a href="https://www.linkedin.com/in/sergio-nibon-serj%C3%A3o-a77639114" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      
     </a>&nbsp;
 
  <a href="https://www.instagram.com/dev.serjaonibon" target="_blank" >
