@@ -24,7 +24,7 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, e um aspirant
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 
- <a href="https://www.instagram.com/dev.serjaonibon" target="_blank" target="_blank">
+ <a href="https://www.instagram.com/dev.serjaonibon" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
 
