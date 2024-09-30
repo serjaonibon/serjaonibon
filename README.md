@@ -32,7 +32,7 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, e um aspirant
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
 </a>&nbsp;
 
- <a href="">
+ <a href="https://medium.com/@snibonjr" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>&nbsp;   
 
