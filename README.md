@@ -5,7 +5,7 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, e um aspirant
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/serjaonibon/serjaonibon/blob/main/foto-serjao.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-🎧 - Analista de Atendimento ao Cliente, no [Grupo Boticário](https://www.grupoboticario.com.br/) / [Casa Magalhães](https://www.casamagalhaes.com.br/).<br>
+🎧 - <p>Analista de Atendimento ao Cliente, no: <a href="https://www.grupoboticario.com.br" target="_blank">Grupo Boticário</a></p>.<br>
 👨🏼‍🎓 - Acadêmico de Análise e Desenvolvimento de Sistemas.<br>
 👨🏼‍💻 - Aluno do Curso Full Stack Javascript, da [One Bit Code](https://onebitcode.com/).<br>
 
