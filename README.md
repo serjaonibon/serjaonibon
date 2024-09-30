@@ -2,7 +2,7 @@
 Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, e um aspirante a desenvolvedor web. Gosto muito de tecnologia e inovação, e no momento, estou me aperfeiçoando nas tecnologias HTML, CSS, Javascript e React, buscabdo ingressar na área de desenvolvimento Full Stack. Aqui, registrarei um pouco de minha trajetória, aulas e projetos que irei participar nessa busca por conhecimento no mundo da programação.
 
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/serjaonibon/serjaonibon/blob/main/Serj%C3%A3o-criada.png" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/serjaonibon/serjaonibon/blob/main/foto-serjao.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 🎧 - Analista de Atendimento ao Cliente, no [Grupo Boticário](https://www.grupoboticario.com.br/) / [Casa Magalhães](https://www.casamagalhaes.com.br/).<br>
@@ -20,19 +20,19 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, e um aspirant
 
 ## Minhas redes 👋
 
-  <a href="https://www.linkedin.com/in/sergio-nibon-serj%C3%A3o-a77639114/">
+  <a href="https://www.linkedin.com/in/sergio-nibon-serj%C3%A3o-a77639114/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>&nbsp;
 
- <a href="https://www.instagram.com/dev.serjaonibon/">
+ <a href="https://www.instagram.com/dev.serjaonibon/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>&nbsp;
 
- <a href="">
+ <a href="" target="_blank">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
     </a>&nbsp;
 
- <a href="">
+ <a href="" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>&nbsp;   
 
